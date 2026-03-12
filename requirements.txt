@@ -1,0 +1,5 @@
+
+## remaining already installed under langchain_core this is for my reference
+fastapi
+uvicorn
+langserve
